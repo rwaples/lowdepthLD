@@ -1,0 +1,19 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - numpy<=1.21
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - msprime
+  - tskit
+  - stdpopsim
+  - tszip
+  - pytables
+  - jupyter
+  - notebook
+  - numba
+  - scikit-allel
